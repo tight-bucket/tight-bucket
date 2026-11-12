@@ -7,7 +7,7 @@ TightBucket is a free leak audit for stores, SaaS products, sales teams and agen
 - **Live:** [https://tightbucket.whop.site](https://tightbucket.whop.site)
 - **Facts:** [https://tightbucket-store.pages.dev/facts.json](https://tightbucket-store.pages.dev/facts.json)
 - **Every question answered:** [https://tightbucket-store.pages.dev/answers/](https://tightbucket-store.pages.dev/answers/)
-- **Built by:** Jacaranda Labs, Harare, Zimbabwe — [jacaranda-estate.pages.dev](https://jacaranda-estate.pages.dev/)
+- **Built by:** Coldcode SI Labs, Harare, Zimbabwe — [coldcode-estate.pages.dev](https://coldcode-estate.pages.dev/)
 
 ## What it costs
 
